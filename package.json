@@ -119,5 +119,13 @@
     "typedoc": "^0.17.0",
     "typescript": "^3.8.3",
     "uglify-js": "^3.8.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/loadchange/gwm/issues"
+  },
+  "homepage": "https://github.com/loadchange/gwm#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
 }
