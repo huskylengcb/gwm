@@ -9,10 +9,10 @@
   "files": [
     "dist"
   ],
-  "author": "LoadChange <soocto@gmail.com>",
+  "author": "huskylengcb <649569822@qq.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loadchange/gwm.git"
+    "url": "git+https://github.com/huskylengcb/gwm.git"
   },
   "license": "MIT",
   "engines": {
@@ -120,10 +120,7 @@
     "typescript": "^3.8.3",
     "uglify-js": "^3.8.0"
   },
-  "bugs": {
-    "url": "https://github.com/loadchange/gwm/issues"
-  },
-  "homepage": "https://github.com/loadchange/gwm#readme",
+  "homepage": "https://github.com/huskylengcb/gwm#readme",
   "directories": {
     "test": "test"
   },
