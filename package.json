@@ -1,6 +1,6 @@
 {
-  "name": "gwm",
-  "version": "0.5.0",
+  "name": "gwm-husky",
+  "version": "0.0.1",
   "description": "generate watermark",
   "keywords": [],
   "main": "dist/gwm.umd.js",
